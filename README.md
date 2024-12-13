@@ -6,7 +6,6 @@ analysis.
 #### Author: Aimad SADOUK  
 #### Friday, December 13, 2024 
 
-![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/HomePage.jpg)
 ## Skills Used:
 - **Data Analysis:** Pandas, Numpy for data manipulation and cleaning.
 - **Data Visualization:** Matplotlib, Seaborn for trend analysis and correlation heatmaps.
@@ -29,3 +28,7 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 
 Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
+
+--
+![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/HomePage.jpg)
+
