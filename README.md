@@ -4,6 +4,7 @@ visualizations like line plots, histograms, heatmaps etc..., the goal is to iden
 movements, trading volumes, and correlations. Statistical methods like correlation matrices and groupby operations are used for deeper
 analysis.
 #### Author: Aimad SADOUK  
+#### Friday, December 13, 2024 
 
 
 ## Skills Used:
