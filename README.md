@@ -10,3 +10,9 @@ analysis.
 - **Machine Learning:** Linear Regression, train-test split, and predictive analysis.
 - **Data Preprocessing:** Feature scaling with StandardScaler.
 - **Programming:** Python for end-to-end data analysis and modeling.
+
+#### Project Highlights
+- **Data Visualization:** Generated meaningful charts like line plots, scatter plots, and heatmaps to identify trends and correlations.
+- **Feature Engineering:** Created new features like 'Price Range' and standardized the dataset for analysis.
+- **Predictive Modeling:** Built a linear regression model to predict closing prices and achieved an MAE of ~0.008.
+- **Insightful Analysis:** Observed relationships between Bitcoin's high, low, and volume attributes, contributing to the predictive model.
