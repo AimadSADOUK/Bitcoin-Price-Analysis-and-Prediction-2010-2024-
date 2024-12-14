@@ -30,5 +30,5 @@ Feel free to reach out if you have any questions or if you're interested in coll
 Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
 
 --
-![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/HomePage.jpg)
+![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/05-HomePage.png)
 
