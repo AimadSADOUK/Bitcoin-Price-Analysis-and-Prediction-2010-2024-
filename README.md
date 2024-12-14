@@ -18,7 +18,13 @@ analysis.
 - **Feature Engineering:** Created new features like 'Price Range' and standardized the dataset for analysis.
 - **Predictive Modeling:** Built a linear regression model to predict closing prices and achieved an MAE of ~0.008.
 - **Insightful Analysis:** Observed relationships between Bitcoin's high, low, and volume attributes, contributing to the predictive model.
-
+This analysis was driven by the following key questions:
+- 1. Which year showed the highest volatility in Bitcoin prices?
+- 2. What is the distribution of Bitcoin’s closing prices, and how frequently do certain price ranges occur?
+- 3. What is the trend of Bitcoin's closing price over time?
+- 4. What is the variation in Bitcoin's daily price range over time?
+- 5. Is there a trend in Bitcoin's closing price over the years?
+- 6. How has the trading volume of Bitcoin changed over time?
   
 ### Contact 
 
