@@ -38,5 +38,19 @@ Feel free to reach out if you have any questions or if you're interested in coll
 Thank you for taking the time to read my report; I hope it provides valuable insights and fosters thoughtful discussions.
 
 --
+## Yearly_Distribution_Bitcoin_Prices
+![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/01-Yearly_Distribution_Bitcoin_Prices.png)
+
+## Bitcoin Closing Price Over Time
+![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/02-Bitcoin%20Closing%20Price%20Over%20Time.png)
+
+## Distribution of Bitcoin Closing Prices
+![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/03-Distribution%20of%20Bitcoin%20Closing%20Prices.png)
+
+## Bitcoin Daily Price Range
+![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/04-Bitcoin%20Daily%20Price%20Range.png)
+
+--
+
 ![image](https://github.com/AimadSADOUK/Bitcoin-Price-Analysis-and-Prediction-2010-2024-/blob/main/05-HomePage.png)
 
